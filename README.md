@@ -8,6 +8,7 @@ Now I'm studying in CMU and Cooperative Education in feedback180 Co. ltd, I've e
 
 * 🌍  I'm based in Lamphun, Thailand
 * ✉️  You can contact me at [pongpol095@gmail.com](mailto:pongpol095@gmail.com)
+* 🧠  I'm learning Figma and mongo DB
 
 ### Skills
 
