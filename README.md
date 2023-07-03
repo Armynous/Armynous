@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pongpol (Arm)
 =====================================================================================================================================
 
-Data Scientist (Bginner)
-------------------------
+Data Scientist (Beginner)
+-------------------------
 
 Now I'm studying in CMU and Cooperative Education in feedback180 Co. ltd, I've ever been learning Front-end developer a few years ago
 
